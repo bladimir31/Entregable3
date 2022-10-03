@@ -1,0 +1,18 @@
+.Location_card{
+    background-color:rgb(0, 20, 20);
+    color: white;
+    padding: 1rem 0 1rem 0;
+    margin: 1rem 0 1rem;
+    border-radius: 1rem;
+}
+
+.Location_card_items2{
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+li{
+    margin-top: 1rem;
+    font-weight: bold;
+}
